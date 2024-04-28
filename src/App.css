@@ -1,0 +1,29 @@
+.main{
+    padding: 30px 40px 0px;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.delete-icon{
+    color: red !important;
+    cursor: pointer;
+}
+.update-icon{
+    color: green !important;
+    cursor: pointer;
+}
+.ml-3{
+    margin-left: 12px;
+}
+.ml-5{
+    margin-left: 20px;
+}
+.mr-3{
+    margin-right: 12px;
+}
+.mr-5{
+    margin-right: 20px;
+}

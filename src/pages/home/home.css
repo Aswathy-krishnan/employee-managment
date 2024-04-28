@@ -1,0 +1,28 @@
+.span {
+  color: red;
+}
+.search-input {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.search-panel{
+  float: right;
+}
+.search-item{
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
+.search-add{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: end;
+}
+.table-main{
+  overflow-x: auto;
+}
+.heading{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
